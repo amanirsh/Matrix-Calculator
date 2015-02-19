@@ -1,0 +1,6 @@
+*File.cpp is my file which contains the three required unit test
+*imp.h contains the implementation of all functions
+*readfile contains all the matrices
+       --> Remember the matrices should be in this format only
+           otherwise results will get corrupted
+*Doc1 conatins all the detailed documentation about the project
